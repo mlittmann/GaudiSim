@@ -1,0 +1,4 @@
+[submodule "mucoll-benchmarks"]
+	path = mucoll-benchmarks
+	url = git@github.com:mlittmann/mucoll-benchmarks.git
+	branch = mira-llps-port
