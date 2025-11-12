@@ -2,3 +2,7 @@
 	path = mucoll-benchmarks
 	url = git@github.com:mlittmann/mucoll-benchmarks.git
 	branch = mira-llps-port
+[submodule "packages/k4Reco-llps"]
+	path = packages/k4Reco-llps
+	url = git@github.com:mlittmann/k4Reco-llps.git
+	branch = main
